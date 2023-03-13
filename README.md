@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, this is Diksha Wagh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Collision Detector**
+- 🔭 I’m currently working on **NLP DASHBOARD**
 
 - 🌱 I’m currently learning **Machine Learning, Flutter, Pandas, Tensorflow**
 
